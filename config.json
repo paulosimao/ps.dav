@@ -1,0 +1,6 @@
+{
+  "davroot": "davroot",
+  "mongo"  : {
+    "url": "mongodb://localhost:27017/davfs"
+  }
+}
